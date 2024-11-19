@@ -1,7 +1,7 @@
 # simplify-admin-boot
 
 #### 介绍
-后端快速开发脚手架单Spring Boot版本，具体说明请参考：simplify-admin
+后端快速开发脚手架单Spring Boot版本，具体说明请参考：[simplify-admin](https://github.com/teamsoft-projects/simplify-admin)
 
 #### 联系我
 
